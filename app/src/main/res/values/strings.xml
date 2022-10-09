@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="NextQuestion">Next Question</string>
+    <string name="CorrectAnswer">Correct Answer</string>
+    <string name="IncorrectAnswer">Incorrect Answer</string>
+    <string name="Question1">Are the strings immutable?</string>
+    <string name="Question2">Is Dependency injections recommended pattern for applications with complex dependencies?</string>
+    <string name="Question3">Can programmer survive without caffeine?</string>
+</resources>
